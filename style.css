@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-style: italic;
+    font-size: medium;
+}
+h1{ 
+
+    color: aqua;
+}
+div.h11 h1{
+    color: crimson;
+}
+span.h111 h1{
+    color: pink;
+}
+div.h222 h1{
+    color: blueviolet;
+}
+div.h444 h1{
+    color: blueviolet;
+}
+li{
+list-style: none;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+nav ul li{
+    display: inline-block;
+    border: 1px red solid;
+    margin-right: 10px;
+}
+div#hamza{
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+}
+
